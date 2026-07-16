@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1784199913613",
+    "name": "Haasini. K",
+    "email": "haasi.email.123@gmail.com",
+    "password": "$2b$10$BM.xFMFlJ0.wEiw5pMHOgegmdWxMxcPS24xUI1blAXqjFwMX4T3sm",
+    "profile": {
+      "nationality": "",
+      "eduLevel": "",
+      "cgpa": "",
+      "income": "",
+      "techSkills": "",
+      "college": "",
+      "major": ""
+    },
+    "documents": {
+      "resume": null,
+      "incomeCert": null,
+      "marksheets": null,
+      "idProof": null,
+      "lor": null
+    }
+  }
+]
