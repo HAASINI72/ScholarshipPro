@@ -1,0 +1,8 @@
+{
+  "name": "ScholarshipPro",
+  "description": "An AI-powered scholarship recommendation system that matches students with funding opportunities based on their profile, academic records, and interests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
