@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "tsx server.js",
-    "build": "vite build && esbuild server.js --bundle --platform=node --format=esm --packages=external --sourcemap --outfile=dist/server.js",  
+    "build": "vite build && esbuild server.js --bundle --platform=node --format=esm --packages=external --sourcemap --outfile=dist/server.js",
     "start": "node dist/server.js",
     "clean": "rm -rf dist",
     "lint": "eslint src"
@@ -20,6 +20,7 @@
     "express": "^4.21.2",
     "jsonwebtoken": "^9.0.3",
     "lucide-react": "^0.546.0",
+    "mongoose": "^9.7.4",
     "motion": "^12.23.24",
     "react": "^19.0.1",
     "react-dom": "^19.0.1",

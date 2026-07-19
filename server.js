@@ -9,6 +9,15 @@ import bcrypt from 'bcryptjs';
 
 import fs from 'fs';
 
+import dotenv from "dotenv";
+import connectDB from "./db.js";
+
+dotenv.config();
+
+await connectDB();
+
+// Start your Express server here
+
 dotenv.config();
 
 const __filename = fileURLToPath(import.meta.url);
