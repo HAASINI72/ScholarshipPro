@@ -9,7 +9,6 @@ import bcrypt from 'bcryptjs';
 
 import fs from 'fs';
 
-import dotenv from "dotenv";
 import connectDB from "./db.js";
 
 dotenv.config();
